@@ -10,7 +10,7 @@ class Solution:
             "4":"ghi",
             "5":"jkl",
             "6":"mno",
-            "7":"rqps",
+            "7":"pqrs",
             "8":"tuv",
             "9":"wxyz"
         }
